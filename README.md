@@ -152,9 +152,8 @@ There is no specific deployment process for this project as it is a code impleme
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@VelzckC0D3](https://github.com/VelzckC0D3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/velzckcode/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
