@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <h3><b>TDD Project</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -15,7 +10,6 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
@@ -47,8 +41,6 @@ This project is built with the following technologies
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
 
 - **Reliability and Maintainability**
 - **Better Test Coverage**
@@ -110,22 +102,20 @@ There is no specific deployment process for this project as it is a code impleme
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Jules**
 
-👤 **Author1**
+- GitHub: [@Jules Edozie](https://github.com/julzedz) | LinkedIn: [Jules Edozie](https://linkedin.com/in/linkedinhandle)
 
-- GitHub: [@Jules Edozie](https://github.com/julzedz)
-- Twitter: [@julzedz](https://twitter.com/twitterhandle)
-- LinkedIn: [Jules Edozie](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Alejandro**
 
-- GitHub: [@VelzckC0D3](https://github.com/VelzckC0D3)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/velzckcode/)
+- GitHub: [@VelzckC0D3](https://github.com/VelzckC0D3) | LinkedIn: [LinkedIn](https://www.linkedin.com/in/velzckcode/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+# 🔭 Future Features <a name="future-features"></a>
+- Integration of user interface
+- More specific functions to be tested
 
 
 <!-- CONTRIBUTING -->
@@ -141,8 +131,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
